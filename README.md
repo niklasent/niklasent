@@ -1,5 +1,14 @@
 <div id="header" align="center">
   <img src="https://www.entschladen.me/images/avatar.png" width="100" alt="a small presentation of myself..."/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/niklas-entschladen">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.reddit.com/user/niklasent/">
+      <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **niklasent/niklasent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
