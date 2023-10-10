@@ -1,5 +1,6 @@
-![a small presentation of myself...](https://www.entschladen.me/images/avatar.png)
-
+<div id="header" align="center">
+  ![a small presentation of myself...](https://www.entschladen.me/images/avatar.png)
+</div>
 <!--
 **niklasent/niklasent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
