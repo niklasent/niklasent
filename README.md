@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=niklasent&style=flat-square&color=blue" alt=""/>
 </div>
 <!--
 **niklasent/niklasent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
