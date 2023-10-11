@@ -18,7 +18,7 @@
 I am a System Engineer from Germany.
 - 🎓 Graduate in IT security (M.Sc.).
 - 🔭 My work focuses on cloud and security related topics.
-- 🌱 I’m currently learning about cloud identity and access management.
+- 🌱 I’m currently learning about Azure identity and access management.
 - ⚡ In my freetime, I code security related software.
 
 ---
