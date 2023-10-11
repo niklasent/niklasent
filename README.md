@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="100" alt="Hello world!"/>
+  <img src="https://media.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif" width="100" alt="Hello world!"/>
   <!-- <img src="https://www.entschladen.me/images/avatar.png" width="100" alt="a small presentation of myself..."/> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/niklas-entschladen">
@@ -11,7 +11,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=niklasent&style=for-the-badge&color=blue" alt=""/>
 </div>
-
 
 <!--
 **niklasent/niklasent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
