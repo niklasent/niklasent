@@ -12,12 +12,13 @@
   <img src="https://komarev.com/ghpvc/?username=niklasent&style=for-the-badge&color=blue" alt=""/>
 </div>
 ---
+
 ### 👨‍💻 About Me:
 I am a System Engineer from Germany.
-🎓 Graduate in IT security (M.Sc.)
-🔭 My work focuses on cloud and security related topics.
-🌱 I’m currently learning about cloud identity and access management.
-⚡ In my freetime, I code security related software.
+- 🎓 Graduate in IT security (M.Sc.)
+- 🔭 My work focuses on cloud and security related topics.
+- 🌱 I’m currently learning about cloud identity and access management.
+- ⚡ In my freetime, I code security related software.
 
 <!--
 **niklasent/niklasent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
