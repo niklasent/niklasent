@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS" width="100" alt="Hello world!"/>
+  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="100" alt="Hello world!"/>
   <!-- <img src="https://www.entschladen.me/images/avatar.png" width="100" alt="a small presentation of myself..."/> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/niklas-entschladen">
