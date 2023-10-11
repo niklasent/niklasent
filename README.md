@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://www.entschladen.me/images/avatar.png" width="100" alt="a small presentation of myself..." onError="this.src = 'https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS'"/>
+  <img src="https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS" width="100" alt="Hello world!"/>
+  <!-- <img src="https://www.entschladen.me/images/avatar.png" width="100" alt="a small presentation of myself..."/> -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/niklas-entschladen">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
